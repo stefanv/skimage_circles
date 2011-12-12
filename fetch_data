@@ -1,0 +1,4 @@
+wget http://www.mathworks.com/help/toolbox/images/ref/circles_copy.gif
+convert circles_copy.gif circles.png
+rm circles_copy.gif
+
